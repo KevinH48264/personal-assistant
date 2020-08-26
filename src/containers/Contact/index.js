@@ -6,7 +6,7 @@ import Featured from '../../components/Featured'
 const ContactPage = () => (
   <Font>
     <Contact />
-    <Featured />
+    {/* <Featured /> */}
   </Font>
 )
 

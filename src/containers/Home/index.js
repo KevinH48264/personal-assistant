@@ -8,7 +8,7 @@ const HomePage = () => (
   <Font>
     <Tagline />
     <About />
-    <Featured />
+    {/* <Featured /> */}
   </Font>
 )
 

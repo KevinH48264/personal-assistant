@@ -65,6 +65,7 @@ import ContactPage from './containers/Contact'
 import PressPage from './containers/Press'
 import VenturesPage from './containers/Ventures'
 import Navbar from './components/Navbar'
+import Featured from './components/Featured'
 import './App.css'
 
 // "homepage": "https://KevinH48264.github.io/satvik-personal-website",
@@ -86,6 +87,7 @@ const App = () => (
         <Route path="/press" component={PressPage} />
         <Route path="/" component={HomePage} />
       </Switch>
+      <Featured />
       {/* </CSSTransition>
         </TransitionGroup>
       )}

@@ -10,7 +10,7 @@ const PressPage = () => (
     <PressTagline />
     <PressFeaturesAbout />
     <VideoFeaturesAbout />
-    <Featured />
+    {/* <Featured /> */}
   </Font>
 )
 

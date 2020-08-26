@@ -12,7 +12,7 @@ const VenturesPage = () => (
     <RunawayAbout />
     <KaizenAbout />
     <ProjectCovidAbout />
-    <Featured />
+    {/* <Featured /> */}
   </Font>
 )
 
