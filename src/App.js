@@ -73,22 +73,23 @@ const App = () => (
   <Router>
     <div className="App">
       <Navbar />
-      <Route render={({ location }) => (
+      {/* <Route render={({ location }) => (
         <TransitionGroup>
           <CSSTransition
             key={location.key}
             timeout={500}
             classNames="fade"
-          >
-            <Switch location={location}>
-              <Route path="/ventures" component={VenturesPage} />
-              <Route path="/press" component={PressPage} />
-              <Route path="/" component={HomePage} />
-            </Switch>
-          </CSSTransition>
+          > */}
+      {/* <Switch location={location}> */}
+      <Switch>
+        <Route path="/ventures" component={VenturesPage} />
+        <Route path="/press" component={PressPage} />
+        <Route path="/" component={HomePage} />
+      </Switch>
+      {/* </CSSTransition>
         </TransitionGroup>
       )}
-      />
+      /> */}
     </div>
   </Router>
 )
