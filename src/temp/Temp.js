@@ -5,7 +5,7 @@ const Temp = () => (
   <div>
     <p>Hi</p>
     <button type="button" onClick={() => usersLib.create('someEmailId', 'tempName')}>Click Me Temp</button>
-    <img alt="google image" src="./logo192.png" />
+    <img alt="google image" src="/logo192.png" />
   </div>
 
 )
