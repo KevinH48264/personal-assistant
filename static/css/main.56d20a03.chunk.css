@@ -1,0 +1,2 @@
+.page{position:absolute;top:100px;left:0;right:0}.fade-appear,.fade-enter{opacity:0;z-index:1}.fade-appear-active,.fade-enter.fade-enter-active{opacity:1;-webkit-transition:opacity .3s linear .15s;transition:opacity .3s linear .15s}.fade-exit{opacity:1}.fade-exit.fade-exit-active{opacity:0;-webkit-transition:opacity .15s linear;transition:opacity .15s linear}
+/*# sourceMappingURL=main.56d20a03.chunk.css.map */
