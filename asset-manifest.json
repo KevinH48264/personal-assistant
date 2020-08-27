@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/personal-assistant/static/css/main.56d20a03.chunk.css",
-    "main.js": "/personal-assistant/static/js/main.a041443a.chunk.js",
-    "main.js.map": "/personal-assistant/static/js/main.a041443a.chunk.js.map",
+    "main.js": "/personal-assistant/static/js/main.24b33fe8.chunk.js",
+    "main.js.map": "/personal-assistant/static/js/main.24b33fe8.chunk.js.map",
     "runtime-main.js": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js",
     "runtime-main.js.map": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js.map",
     "static/js/2.83e76a51.chunk.js": "/personal-assistant/static/js/2.83e76a51.chunk.js",
     "static/js/2.83e76a51.chunk.js.map": "/personal-assistant/static/js/2.83e76a51.chunk.js.map",
     "index.html": "/personal-assistant/index.html",
-    "precache-manifest.8c6eac8f0400eec8c76c88485d1ac0d4.js": "/personal-assistant/precache-manifest.8c6eac8f0400eec8c76c88485d1ac0d4.js",
+    "precache-manifest.0aa481563a52f52a8e4a7e08ada0be8e.js": "/personal-assistant/precache-manifest.0aa481563a52f52a8e4a7e08ada0be8e.js",
     "service-worker.js": "/personal-assistant/service-worker.js",
     "static/css/main.56d20a03.chunk.css.map": "/personal-assistant/static/css/main.56d20a03.chunk.css.map",
     "static/js/2.83e76a51.chunk.js.LICENSE": "/personal-assistant/static/js/2.83e76a51.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f1a1dcf.js",
     "static/js/2.83e76a51.chunk.js",
     "static/css/main.56d20a03.chunk.css",
-    "static/js/main.a041443a.chunk.js"
+    "static/js/main.24b33fe8.chunk.js"
   ]
 }
